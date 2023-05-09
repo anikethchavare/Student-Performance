@@ -17,7 +17,7 @@ print("4) Student Counseling Information")
 print("5) Student Performance")
 print("6) Student Performance (Bar Chart)")
 print("7) Compare Students in a Semester (Bar Chart)")
-print("8) Compare Semesters of a Students (Bar Chart)")
+print("8) Compare Semesters of a Student (Bar Chart)")
 
 userChoice = int(input("\nEnter your Choice: (1/2/3/4/5/6/7/8) "))
 

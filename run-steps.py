@@ -25,3 +25,4 @@ os.system("python -m pip install --upgrade pip")
 
 os.system("pip install --upgrade pandas")
 os.system("pip install --upgrade matplotlib")
+os.system("pip install --upgrade numpy")
