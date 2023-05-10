@@ -4,7 +4,7 @@ This Python project visualizes and queries data of a university's CSV database.
 
 ## Introduction
 
-This project was an assignment I had to work on when I applied for an internship. So, I had to create a program that makes querying the CSV data easier, along with visualization with **matplotlib**.
+This project was an assignment I had to work on when I applied for an internship. So, I had to _**create a program that makes querying the CSV data easier, along with visualization with matplotlib**_.
 
 ## Settings It Up
 
@@ -30,6 +30,7 @@ Then, you get an input to ask for some details. Enter the details from the respe
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/50455489/169692472-1d69f321-6993-4a9c-9ab7-ef2298b67cd7.png" width="650" height="300"/>
+
 <img src="https://user-images.githubusercontent.com/50455489/169692570-5900ea0b-dc4f-4e60-ad28-8227ee1dd5de.png" width="650" height="300"/>
 
 ## Issues & Bugs
