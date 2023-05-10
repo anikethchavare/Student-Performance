@@ -4,7 +4,7 @@ This Python project visualizes and queries data of a university's CSV database.
 
 ## Introduction
 
-This project was an assignment I had to work on when I applied for an internship. So, I had to _**create a program that makes querying the CSV data easier, along with visualization with matplotlib**_.
+This project was an assignment I had to work on when I applied for an internship. So, I had to _**create a program that makes querying the CSV data easier, along with data visualization (matplotlib)**_.
 
 ## Settings It Up
 
